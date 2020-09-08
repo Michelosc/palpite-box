@@ -9,11 +9,19 @@ const Footer = () => {
           Michel Corrêa
         </a>{' '}
         /{' '}
-        <a className="hover:underline" href="">
+        <a
+          className="hover:underline"
+          href="https://www.linkedin.com/in/michel-corr%C3%AAa-3268a113a/"
+          target="_blank"
+        >
           Linkedin
         </a>{' '}
         /{' '}
-        <a className="hover:underline" href="">
+        <a
+          className="hover:underline"
+          href="https://github.com/Michelosc"
+          target="_blank"
+        >
           Github
         </a>
         <div className="mt-2">
